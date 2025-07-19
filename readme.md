@@ -7,6 +7,8 @@ A **Java-based console application** built using **Object-Oriented Programming (
 - Perform basic operations (e.g., deposits, withdrawals, balance check)
 - Exit the system gracefully
 
+  <img width="869" height="517" alt="image" src="https://github.com/user-attachments/assets/719b3355-8c35-4792-bc1e-7e88379c34cc" />
+
 ---
 
 ### 📂 Project Structure
